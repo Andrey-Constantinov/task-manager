@@ -19,7 +19,7 @@ public interface UserDao {
     List<User> getAllUsers();
 
     void addTask(Task task);
-
+  //TODO: JAVA DOC DOG...
     List<Task> getAllUsersTasks();
 
 }
